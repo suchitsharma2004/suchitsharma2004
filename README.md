@@ -7,8 +7,6 @@
 I'm an AI/ML Student | Researcher | Backend Developer
 </h2> 
 
-I love exploring the endless possibilities of AI, building impactful projects, and writing research articles.  
-
 ---
 
 ### 🤝 Connect with me:
