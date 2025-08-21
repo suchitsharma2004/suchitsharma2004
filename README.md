@@ -1,43 +1,64 @@
 <p align="center">
   <img width="1834" alt="Make your README (1)" src="https://github.com/user-attachments/assets/1f9c6aad-c7cd-4c66-96f6-e1c0f11464a8">
-
 </p>
 
-<h3 align="center">
-Hi there, I'm Suchit 👋
-</h3>
 
 <h2 align="center">
-I'm a Data Science and AI/ML student 💻
+I'm an AI/ML Student | Researcher | Backend Developer
 </h2> 
 
-I love exploring what all AI has to offer. I also write research articles.
+I love exploring the endless possibilities of AI, building impactful projects, and writing research articles.  
+
+---
 
 ### 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/suchit-sharma-465ba1251/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Suchit | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/suchit-sharma2004/"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Suchit | LinkedIn" width="21px"/></a>
+<a href="https://suchit.tech"><img align="left" src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" alt="Suchit | Website" width="21px"/></a>
+<a href="mailto:suchit.sharma.delhi@gmail.com"><img align="left" src="https://img.icons8.com/ios-filled/50/ffffff/new-post.png" alt="Suchit | Gmail" width="21px"/></a>
 
 </br>
-💬 If you have any question/feedback, please do not hesitate to reach out to me!
-
-## 🔭 I'm currently working on
-
-- My old projects
-- email chatapp
-- Linked Scraper
-- My next research paper
-
-## 🌱 I'm currently learning
-
-- Django REST
-- NLP
-- Streamlit
 
 
 
+## 🔭 What I'm Working On
 
+- Research Papers** on Vision Transformers, Multimodal Emotion Recognition & Medical Imaging  
+- FlowMail – AI-Integrated Mail System ([Demo](https://mailapp-lrbt.onrender.com))  
+- SignSetu – Indian Sign Language Detection ([Repo](https://github.com/suchitsharma2004/Indian_sign-language-detector-python))  
+- DermDetect – AI for Preliminary Skin Disease Detection ([Repo](https://github.com/suchitsharma2004/DermDetect))  
+- Exploring NLP, Django REST, and Streamlit**  
+
+---
+
+## 📚 Research Publications  
+
+- UCD Net: Dilated Convolution-Enhanced Upsampling Fusion for Advanced Lung Disease Classification**  
+  Published in Springer MTAP (2025) – Achieved 98%+ accuracy, outperforming ResNet50/VGG16.  
+- Brain Tumor Detection Using DeiT-Based Vision Transformer** *(Under Review)* 
+- Multimodal Emotion Recognition: LSTM vs Attention-Based Fusion Models (Under Review)
+
+---
+
+## 🛠️ Skills  
+
+**Languages:** Python, C++, SQL, HTML/CSS  
+**Frameworks:** Django, TensorFlow, Scikit-learn, Mediapipe  
+**Tech:** Pandas, NumPy, OpenCV, Machine Learning, Deep Learning  
+**Tools:** Git/GitHub, PostgreSQL, MySQL, Jupyter Notebook, Streamlit  
+**Other:** Problem Solving, Research, Public Speaking, Leadership  
+
+---
+
+## 🏆 Achievements  
+
+- **Oracle Certified Generative AI Professional** (1Z0-1127-25)  
+- **Amazon ML Summer School 2025** – Selected Top 2% from 1,00,000+ applicants  
+- Competitions: 🥇 SIH 2023 (Univ. Round) | 🥈 ACM Research Hackathon  
+
+---
 
 ## 📈 GitHub Stats 
 
-[![Suchit's github stats](https://github-readme-stats.vercel.app/api?username=suchitsharma2004)](https://github.com/suchitsharma2004)
+[![Suchit's github stats](https://github-readme-stats.vercel.app/api?username=suchitsharma2004)](https://github.com/suchitsharma2004)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suchitsharma2004&layout=compact)](https://github.com/suchitsharma2004)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suchitsharma2004&layout=compact)](https://github.com/suchitsharma2004)  
