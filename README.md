@@ -55,8 +55,13 @@ I'm an AI/ML Student | Researcher | Backend Developer
 
 ---
 
-## 📈 GitHub Stats 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suchitsharma2004&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suchitsharma2004&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
-[![Suchit's github stats](https://github-readme-stats.vercel.app/api?username=suchitsharma2004)](https://github.com/suchitsharma2004)  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=suchitsharma2004&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suchitsharma2004&layout=compact)](https://github.com/suchitsharma2004)  
+
