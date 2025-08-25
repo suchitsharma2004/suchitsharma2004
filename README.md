@@ -61,7 +61,7 @@ I'm an AI/ML Student | Researcher | Backend Developer
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=suchitsharma2004&theme=tokyonight&hide_border=true&v=3" height="160"/>
+<img src="https://streak-stats.demolab.com?user=suchitsharma2004&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 
