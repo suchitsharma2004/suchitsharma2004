@@ -72,12 +72,6 @@ I'm an AI/ML Student | Researcher | Backend Developer
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
 
-### 🌟 Other Skills  
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-006400?style=for-the-badge&logo=thealgorithms&logoColor=white) 
-![Research](https://img.shields.io/badge/Research-800080?style=for-the-badge&logo=academia&logoColor=white) 
-![Public Speaking](https://img.shields.io/badge/Public%20Speaking-FF4500?style=for-the-badge&logo=google-meet&logoColor=white) 
-![Leadership](https://img.shields.io/badge/Leadership-2E8B57?style=for-the-badge&logo=leader&logoColor=white)  
-
 
 ## 🏆 Achievements  
 
