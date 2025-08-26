@@ -10,17 +10,24 @@ I'm an AI/ML Student | Researcher | Backend Developer
 ---
 
 ### 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/suchit-sharma2004/"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Suchit | LinkedIn" width="21px"/></a>
-<a href="https://suchit.tech"><img align="left" src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" alt="Suchit | Website" width="21px"/></a>
-<a href="mailto:suchit.sharma.delhi@gmail.com"><img align="left" src="https://img.icons8.com/ios-filled/50/ffffff/new-post.png" alt="Suchit | Gmail" width="21px"/></a>
 
-</br>
+<p align="left">
+  <a href="https://www.linkedin.com/in/suchit-sharma2004/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Suchit | LinkedIn"/>
+  </a>
+  <a href="https://suchit.tech">
+    <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Suchit | Website"/>
+  </a>
+  <a href="mailto:suchit.sharma.delhi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Suchit | Gmail"/>
+  </a>
+</p>
 
 
 
 ## 🔭 What I'm Working On
 
-- Research Papers** on Vision Transformers, Multimodal Emotion Recognition & Medical Imaging  
+- Research Papers on Vision Transformers, Multimodal Emotion Recognition & Medical Imaging  
 - FlowMail – AI-Integrated Mail System ([Demo](https://mailapp-lrbt.onrender.com))  
 - SignSetu – Indian Sign Language Detection ([Repo](https://github.com/suchitsharma2004/Indian_sign-language-detector-python))  
 - DermDetect – AI for Preliminary Skin Disease Detection ([Repo](https://github.com/suchitsharma2004/DermDetect))  
@@ -35,17 +42,42 @@ I'm an AI/ML Student | Researcher | Backend Developer
 - Brain Tumor Detection Using DeiT-Based Vision Transformer** *(Under Review)* 
 - Multimodal Emotion Recognition: LSTM vs Attention-Based Fusion Models (Under Review)
 
----
-
 ## 🛠️ Skills  
 
-**Languages:** Python, C++, SQL, HTML/CSS  
-**Frameworks:** Django, TensorFlow, Scikit-learn, Mediapipe  
-**Tech:** Pandas, NumPy, OpenCV, Machine Learning, Deep Learning  
-**Tools:** Git/GitHub, PostgreSQL, MySQL, Jupyter Notebook, Streamlit  
-**Other:** Problem Solving, Research, Public Speaking, Leadership  
+### 🚀 Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
----
+### ⚡ Frameworks & Libraries  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![Mediapipe](https://img.shields.io/badge/Mediapipe-0095D5?style=for-the-badge&logo=google&logoColor=white)  
+
+### 🧠 Tech & Concepts  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) 
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=apachespark&logoColor=E25A1C) 
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF1493?style=for-the-badge&logo=pytorch&logoColor=white)  
+
+### 🛠️ Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) 
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
+
+### 🌟 Other Skills  
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-006400?style=for-the-badge&logo=thealgorithms&logoColor=white) 
+![Research](https://img.shields.io/badge/Research-800080?style=for-the-badge&logo=academia&logoColor=white) 
+![Public Speaking](https://img.shields.io/badge/Public%20Speaking-FF4500?style=for-the-badge&logo=google-meet&logoColor=white) 
+![Leadership](https://img.shields.io/badge/Leadership-2E8B57?style=for-the-badge&logo=leader&logoColor=white)  
+
 
 ## 🏆 Achievements  
 
@@ -56,12 +88,11 @@ I'm an AI/ML Student | Researcher | Backend Developer
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suchitsharma2004&show_icons=true&theme=tokyonight&hide_border=true&v=3" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suchitsharma2004&layout=compact&theme=tokyonight&hide_border=true&v=3" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=suchitsharma2004&show_icons=true&theme=radical&hide_border=true&v=3" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suchitsharma2004&layout=compact&theme=radical&hide_border=true&v=3" height="160"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=suchitsharma2004&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=suchitsharma2004&theme=radical&hide_border=true" height="160"/>
 </p>
-
 
